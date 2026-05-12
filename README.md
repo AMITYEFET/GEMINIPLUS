@@ -16,7 +16,7 @@ Since this extension is in development:
 1. Download this repository as a ZIP file and extract it.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** (toggle in the top right).
-4. Click **Load unpacked** and select the folder containing these files.
+4. Click **Load unpacked** and select the folder containing these files, 'gemini-plus'.
 5. Open [Gemini](https://gemini.google.com) and enjoy!
 
 ## 📸 Screenshots
