@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini+",
+  "version": "1.0",
+  "description": "Premium Gemini features: Colored Scrollbars, Line numbers, Native Canvas Resizer, and Word wrap.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://gemini.google.com/*"],
+      "all_frames": true,
+      "css": ["styles.css"],
+      "js": ["content.js"]
+    }
+  ]
+}
