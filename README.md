@@ -10,9 +10,8 @@ An advanced Chrome Extension designed to supercharge your experience on **google
 - 🎨 **Custom Scrollbars:** Fully customizable scrollbar colors.
 - 🔄 **Word Wrap:** Toggle word wrapping for long code blocks to prevent horizontal scrolling.
 
-## 🛠️ Installation (Developer Mode)
+## 🛠️ Installation
 
-Since this extension is in development:
 1. Download this repository as a ZIP file and extract it.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** (toggle in the top right).
