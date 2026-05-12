@@ -8,7 +8,6 @@ An advanced Chrome Extension designed to supercharge your experience on **google
 - 📱 **Canvas Resizer:** Integrated toolbar inside the Canvas UI to test your code in different resolutions (Desktop, Tablet, Mobile, or Custom).
 - 🎨 **Custom Scrollbars:** Fully customizable scrollbar colors via a Material 3 inspired popup menu.
 - 🔄 **Word Wrap:** Toggle word wrapping for long code blocks to prevent horizontal scrolling.
-- 🌓 **Native Theme Support:** All UI components automatically adapt to Gemini's Light and Dark modes.
 
 ## 🛠️ Installation (Developer Mode)
 
