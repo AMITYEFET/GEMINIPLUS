@@ -28,5 +28,5 @@ https://github.com/user-attachments/assets/a46f5292-ce2f-4fbd-8384-bc1914f16abd
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Use this at your own risk ℹ️
+## ℹ️ Use at your own risk
 I will not take responsibility for any action (if any) taken against your account, damage caused to your Gemini Creations etc'.
