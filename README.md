@@ -18,7 +18,12 @@ Since this extension is in development:
 4. Click **Load unpacked** and select the folder containing these files, 'gemini-plus'.
 5. Open [Gemini](https://gemini.google.com) and enjoy!
 
+
 ## 📸 Screenshots
+<img width="370" height="458" alt="image" src="https://github.com/user-attachments/assets/2c5c1b4b-851e-418e-9f0a-b48c8082be87" />
+<img width="2048" height="1659" alt="image" src="https://github.com/user-attachments/assets/d9c834a7-1cb2-4b4f-9481-f3274fe5355a" />
+https://github.com/user-attachments/assets/a46f5292-ce2f-4fbd-8384-bc1914f16abd
+<img width="861" height="572" alt="image" src="https://github.com/user-attachments/assets/773d2a7d-7f8b-4f91-a533-e433fa225e48" />
 
 
 ## 📜 License
