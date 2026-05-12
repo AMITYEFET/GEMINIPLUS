@@ -4,7 +4,7 @@ An advanced Chrome Extension designed to supercharge your experience on **google
 
 ## ✨ Features
 
-- 🔢 **Native Line Numbers:** Adds accurate line numbering to code blocks in both Chat and the new Monaco-based Gemini Canvas.
+- 🔢 **Native Line Numbers:** Adds accurate line numbering to code blocks in both Chat and Gemini Canvas.
 - 📱 **Canvas Resizer:** Integrated toolbar inside the Canvas UI to test your code in different resolutions (Desktop, Tablet, Mobile, or Custom).
 - 🎨 **Custom Scrollbars:** Fully customizable scrollbar colors.
 - 🔄 **Word Wrap:** Toggle word wrapping for long code blocks to prevent horizontal scrolling.
