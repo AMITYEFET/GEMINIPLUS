@@ -19,7 +19,7 @@ Since this extension is in development:
 5. Open [Gemini](https://gemini.google.com) and enjoy!
 
 ## 📸 Screenshots
-SOON
+
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
