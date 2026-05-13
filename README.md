@@ -1,6 +1,6 @@
 # Gemini+ 🚀
 
-An advanced Chrome Extension designed to supercharge your experience on **google.google.com**. This extension adds professional developer tools and UI enhancements to Gemini Chat and Gemini Canvas.
+An advanced Chrome Extension designed to supercharge your experience on **google.google.com**. This extension adds professional developer tools and UI enhancements to Gemini Chat and Gemini Canvas. Note: If your device is weak, it may not be able to run the plugin because it requires resources. Try running it and check the performance!
 
 ## ✨ Features
 
