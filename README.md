@@ -20,7 +20,6 @@ An advanced Chrome Extension designed to supercharge your experience on **gemini
 3. Enable **Developer mode** (toggle in the top right).
 4. Click **Load unpacked** and select the folder containing these files, 'gemini-plus'.
 5. Open [Gemini](https://gemini.google.com) and enjoy!
-6. 
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
