@@ -10,7 +10,9 @@ An advanced Chrome Extension designed to supercharge your experience on **google
 - 🔄 **Word Wrap:** Toggle word wrapping for long code blocks to prevent horizontal scrolling.
 - ➡️ **Go To Line:** Navigate directly to any line in your canves code.
 - 🗑️ **Clear Canvas:** Add button to clear your canves code.
-
+- ⬇️ **Download Code:** Save canvas codes as a file.
+- 🖥️ **Wide Chat Mode:** Expands narrow chat width.
+  
 ## 🛠️ Installation
 
 1. Download this repository as a ZIP file and extract it.
